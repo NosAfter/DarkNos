@@ -1,4 +1,4 @@
-# DarkNos
+# Rate DarkNos
 
 ( News Serveur privée NosTale (DarkNos ) 
 
